@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Mawile](https://img.pokemondb.net/sprites/diamond-pearl/normal/mawile.png)](https://pokemondb.net/pokedex/mawile)
-[URL="https://pokemondb.net/pokedex/mawile"][IMG]https://img.pokemondb.net/sprites/ultra-sun-ultra-moon/normal/mawile.png[/IMG][/URL]
+
