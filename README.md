@@ -2,8 +2,6 @@
 
 ![DANfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDAnfer&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&layout=compact)
-
 [![Mawile](https://img.pokemondb.net/sprites/ultra-sun-ultra-moon/normal/mawile.png)](https://pokemondb.net/pokedex/mawile)
 
 ## Tecnologias Usadas
