@@ -3,7 +3,7 @@
 ![DANfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDAnfer&show_icons=true&theme=dark)
 
 [![Mawile](https://img.pokemondb.net/sprites/ultra-sun-ultra-moon/normal/mawile.png)](https://pokemondb.net/pokedex/mawile)
-
+![MegaMawile](https://marriland.com/wp-content/plugins/marriland-core/images/pokemon/sprites/home/256/mega-mawile.webp)
 ## Tecnologias Usadas
 
 <div style="display: inline_block"><br/>
