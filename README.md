@@ -8,9 +8,9 @@
 ![DANfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDAnfer&show_icons=true&theme=dark)
 
 ![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=dark)
+![Mawile](https://projectpokemon.org/images/normal-sprite/mawile-mega.gif)
 
-![cait](https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Caitlyn_Render.png/revision/latest/scale-to-width-down/350?cb=20211101230341)
-[![Mawile](https://img.pokemondb.net/sprites/ultra-sun-ultra-moon/normal/mawile.png)](https://pokemondb.net/pokedex/mawile)
+
 
 ## Tecnologias Usadas
 
