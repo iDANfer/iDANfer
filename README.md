@@ -4,15 +4,14 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danferrnando/)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/4hwahy42p7ceob0nilgb4cw9b?si=e76077f4e0954290)
 
-
 ![DANfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDAnfer&show_icons=true&theme=dark)
-![Mawile](https://cdn.discordapp.com/attachments/971948025230557226/1148314404664918066/gengar-mega.gif)
-
-![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=dark)
 ![Mawile](https://projectpokemon.org/images/normal-sprite/mawile-mega.gif)
 
+![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=dark)
+![Gengar](https://projectpokemon.org/images/shiny-sprite/gengar-mega.gif)
+
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65090fb2d5295d7a812147e4?variant=dark)](https://roadmap.sh)
-![Sylveon](https://b4a2235098.clvaw-cdnwnd.com/479164401b6f85d1f636090618b171bb/200006906-40eba41e57/Sylveon_Shiny_XY.gif)
+![Sylveon](https://projectpokemon.org/images/shiny-sprite/sylveon.gif)
 
 
 ## Tecnologias Usadas
