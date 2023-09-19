@@ -8,11 +8,10 @@
 ![Mawile](https://projectpokemon.org/images/normal-sprite/mawile-mega.gif)
 
 ![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=dark)
-![Gengar](https://projectpokemon.org/images/shiny-sprite/gengar-mega.gif)
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65090fb2d5295d7a812147e4?variant=dark)](https://roadmap.sh)
 ![Sylveon](https://projectpokemon.org/images/shiny-sprite/sylveon.gif)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65090fb2d5295d7a812147e4?variant=dark)](https://roadmap.sh)
+![Gengar](https://projectpokemon.org/images/shiny-sprite/gengar-mega.gif)
 
 ## Tecnologias Usadas
 
