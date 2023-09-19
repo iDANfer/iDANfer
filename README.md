@@ -6,6 +6,7 @@
 
 
 ![DANfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDAnfer&show_icons=true&theme=dark)
+![Mawile](https://cdn.discordapp.com/attachments/971948025230557226/1148314404664918066/gengar-mega.gif)
 
 ![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=dark)
 ![Mawile](https://projectpokemon.org/images/normal-sprite/mawile-mega.gif)
