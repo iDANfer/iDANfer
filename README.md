@@ -10,6 +10,8 @@
 ![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=dark)
 ![Mawile](https://projectpokemon.org/images/normal-sprite/mawile-mega.gif)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65090fb2d5295d7a812147e4?variant=dark)](https://roadmap.sh)
+![Sylveon](https://b4a2235098.clvaw-cdnwnd.com/479164401b6f85d1f636090618b171bb/200006906-40eba41e57/Sylveon_Shiny_XY.gif)
 
 
 ## Tecnologias Usadas
