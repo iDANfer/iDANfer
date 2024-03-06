@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fernando-a88a81217/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danferrnando/)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/4hwahy42p7ceob0nilgb4cw9b?si=e76077f4e0954290)
-<mailto = "ldaniel.fernandol@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a  href= "ldaniel.fernandol@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![DANfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDAnfer&show_icons=true&theme=dark)
 ![Mawile](https://projectpokemon.org/images/normal-sprite/mawile-mega.gif)
