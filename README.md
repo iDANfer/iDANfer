@@ -12,7 +12,7 @@
 ![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=dark)
 ![Sylveon](https://projectpokemon.org/images/shiny-sprite/sylveon.gif)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65090fb2d5295d7a812147e4?ariant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65090fb2d5295d7a812147e4?variant=dark" alt="roadmap.sh"/></a>
 ![Gengar](https://projectpokemon.org/images/shiny-sprite/gengar-mega.gif)
 
 
