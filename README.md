@@ -1,20 +1,21 @@
 ### Olá eu sou Daniel Fernando 🖐🏻
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fernando-a88a81217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fernando-a88a81217/)
 <a href="mailto: ldaniel.fernandol@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danferrnando/)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/4hwahy42p7ceob0nilgb4cw9b?si=e76077f4e0954290)
 
 
-![DANfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDAnfer&show_icons=true&theme=dark)
+![DANfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDAnfer&show_icons=true&theme=midnight-purple)
 ![Mawile](https://projectpokemon.org/images/normal-sprite/mawile-mega.gif)
 
-![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=dark)
+![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=midnight-purple)
 ![Sylveon](https://projectpokemon.org/images/shiny-sprite/sylveon.gif)
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65090fb2d5295d7a812147e4?variant=dark" alt="roadmap.sh"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iDANfer&theme=midnight-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ![Gengar](https://projectpokemon.org/images/shiny-sprite/gengar-mega.gif)
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65090fb2d5295d7a812147e4?variant=dark" alt="roadmap.sh"/></a>
 
 
 ## Tecnologias Usadas
