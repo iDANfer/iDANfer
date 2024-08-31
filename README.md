@@ -16,6 +16,7 @@
 ![Gengar](https://projectpokemon.org/images/shiny-sprite/gengar-mega.gif)
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65090fb2d5295d7a812147e4?variant=dark" alt="roadmap.sh"/></a>
+![Rayquaza](https://projectpokemon.org/images/shiny-sprite/rayquaza-mega.gif)
 
 
 ## Tecnologias Usadas
