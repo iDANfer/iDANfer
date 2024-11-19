@@ -12,7 +12,7 @@
 ![iDANfer](https://github-readme-stats.vercel.app/api/top-langs/?username=iDANfer&theme=midnight-purple)
 ![Sylveon](https://projectpokemon.org/images/shiny-sprite/sylveon.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iDANfer&theme=midnight-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iDANfer1&theme=midnight-purple)](https://git.io/streak-stats)
 ![Gengar](https://projectpokemon.org/images/shiny-sprite/gengar-mega.gif)
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65090fb2d5295d7a812147e4?variant=dark" alt="roadmap.sh"/></a>
